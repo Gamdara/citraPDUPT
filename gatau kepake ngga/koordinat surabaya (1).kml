@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>koordinat surabaya.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<color>ff0320ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<color>ff0320ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>koordinat surabaya</name>
+		<open>1</open>
+		<Placemark>
+			<name>NW</name>
+			<LookAt>
+				<longitude>112.7520883065866</longitude>
+				<latitude>-7.257471923884264</latitude>
+				<altitude>0</altitude>
+				<heading>-8.320676932030168e-10</heading>
+				<tilt>0</tilt>
+				<range>34259.01738222753</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>112.6500190488767,-7.175270456298952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NE</name>
+			<LookAt>
+				<longitude>112.7520883065866</longitude>
+				<latitude>-7.257471923884264</latitude>
+				<altitude>0</altitude>
+				<heading>-8.320676932030168e-10</heading>
+				<tilt>0</tilt>
+				<range>34259.01738222753</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>112.8505690165981,-7.175547011698606,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SE</name>
+			<LookAt>
+				<longitude>112.7520883065866</longitude>
+				<latitude>-7.257471923884264</latitude>
+				<altitude>0</altitude>
+				<heading>-8.320676932030168e-10</heading>
+				<tilt>0</tilt>
+				<range>34259.01738222753</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>112.8502442939944,-7.350402458139739,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SW</name>
+			<LookAt>
+				<longitude>112.7520883065866</longitude>
+				<latitude>-7.257471923884264</latitude>
+				<altitude>0</altitude>
+				<heading>-8.320676932030168e-10</heading>
+				<tilt>0</tilt>
+				<range>34259.01738222753</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>112.6502694680319,-7.350364083231888,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
