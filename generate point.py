@@ -63,6 +63,6 @@ for type in types[0:4]:
         "citra"+"\\"+folder+"\\"+folder+"_SR_B7.TIF",
         "citra"+"\\"+folder+"\\"+folder+"_ST_B10.TIF",
         ],
-        'CELLSIZE':0,'EXTENT':'682131.481400000,704231.481400000,-812652.242500000,-793452.242500000 [EPSG:32649]','CRS':None,'OUTPUT':type+'.tif'})
+        'CELLSIZE':0,'EXTENT':'682031.481400000,704331.481400000,-812752.242500000,-793152.242500000 [EPSG:32649]','CRS':None,'OUTPUT':type+'.tif'})
     iface.addRasterLayer(type+'.tif', type)
     print(rumusGDAL[type])
