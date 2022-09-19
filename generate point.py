@@ -1,6 +1,3 @@
-import numpy as np
-import pandas as pd
+import pip
 
-df = pd.read_csv("temp/ndisi.csv")
-
-print(df)
+pip.main(['install', 'xlsxwriter'])
